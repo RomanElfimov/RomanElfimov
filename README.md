@@ -13,7 +13,7 @@
 ### :man_technologist: Привет! Меня зовут Роман, и я занимаюсь iOS разработкой с 2019 года. Хорошо ориентируюсь в Swift, фреймворках, работе с сетевыми протоколами, принципах разработки и архитектурных паттернах. Понимаю возможность создания читаемого и поддерживаемого кода. Занимаюсь разработкой собственных проектов и изучением новых технологий. Могу работать как самостоятельная единица в команде, есть большой опыт разработки приложений с нуля. Умею быстро находить и обрабатывать информацию, легко обучаюсь. В приоритет ставлю профессиональное развитие, хочу перенимать опыт старших разработчиков и расширять технический кругозор.
 ### Мои проекты:
 
-[Teplocom Cloud](https://github.com/RomanElfimov/TeplocomCloud)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomanElfimov&repo=TeplocomCloud&theme=tokyonight)](https://github.com/RomanElfimov/TeplocomCloud)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomanElfimov&repo=FitoBast&theme=tokyonight)](https://github.com/RomanElfimov/FitoBast)
 
