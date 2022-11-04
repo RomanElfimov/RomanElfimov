@@ -9,6 +9,14 @@
 [Teplocom Cloud](https://github.com/RomanElfimov/TeplocomCloud)
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomanElfimov&repo=DemoDev&theme=tokyonight)](https://github.com/RomanElfimov/DemoDev)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomanElfimov&repo=DemoDev)](https://github.com/RomanElfimov/DemoDev)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomanElfimov&repo=DemoDev)](https://github.com/RomanElfimov/DemoDev)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomanElfimov&repo=DemoDev)](https://github.com/RomanElfimov/DemoDev)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomanElfimov&repo=DemoDev)](https://github.com/RomanElfimov/DemoDev)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RomanElfimov&repo=DemoDev)](https://github.com/RomanElfimov/DemoDev)
